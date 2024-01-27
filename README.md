@@ -58,6 +58,10 @@ main::after{
 
 Com o JavaScript, pretendo utilizar mais do forEach em futuros projetos para que assim eu possa entende-lo melhor, aprender técnicas e estar mais confortável para útiliza-lo.
 
+## Deploy
+
+- [Seletor Jujutsu Kaisen](https://jujutsu-kaisen-seven.vercel.app/)
+
 ## Desenvolvedor
 
 - LinkedIn - [Driely Santos](https://www.linkedin.com/in/driely-santos98/)
